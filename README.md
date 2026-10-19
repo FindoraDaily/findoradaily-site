@@ -4,6 +4,7 @@ Public-facing static website for FindoraDaily, separate from the private `Findor
 
 ## Files
 - `index.html` — landing page / launch statement
+- `buying-guide.html` — original, product-neutral shopping checklist; no affiliate links or claimed product testing
 - `about.html` — editorial mission and standards
 - `disclosure.html` — affiliate disclosure and current status
 - `contact.html` — honest holding page until an owner-controlled business contact exists
